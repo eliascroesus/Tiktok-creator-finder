@@ -1,0 +1,6 @@
+.venv/
+progress.json
+progress.tmp
+creators.csv
+ms_token.txt
+__pycache__/
